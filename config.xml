@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns   = "http://www.w3.org/ns/widgets"
+
+<widget
+xmlns   = "http://www.w3.org/ns/widgets"
 xmlns:gap  = "http://phonegap.com/ns/1.0"
-id          = "edu.uab.business.studentapp"
+id        = "edu.uab.business.studentapp"
 versionCode = "1"
-version     = "0.0.1" ><!--versionCode is optional and Android only -->
+version     = "0.0.1" >
+    
+    <!--versionCode is optional and Android only -->
 
 <name>Mobile App Example Module 6</name>
 <description>Mobile App Example Module 6</description>

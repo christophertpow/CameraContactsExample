@@ -19,6 +19,6 @@ version     = "0.0.1" >
 <plugin name="cordova-plugin-whitelist" source="npm" />
 <access origin="*" />
 <plugin name="cordova-plugin-camera" source="npm" />
-<plugin name="cordova-pluing-contacts" source="npm" />
+<plugin name="cordova-plugin-contacts" source="npm" />
 
 </widget>

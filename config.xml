@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+xmlns:gap  = "http://phonegap.com/ns/1.0"
+id          = "edu.uab.business.studentapp"
+versionCode = "1"
+version     = "0.0.1" ><!--versionCode is optional and Android only -->
+
+<name>Mobile App Example Module 6</name>
+<description>Mobile App Example Module 6</description>
+
+<author>Julio C. Rivera </author>
+
+<preference name="phonegap-version" value="cli-6.1.0" />
+
+<plugin name="cordova-plugin-whitelist" source="npm" />
+<access origin="*" />
+<plugin name="cordova-plugin-camera" source="npm" />
+<plugin name="cordova-pluing-contacts" source="npm" />
+
+</widget>
